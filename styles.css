@@ -1,0 +1,19 @@
+body {
+	background: #000000;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #303030;
+	user-select: none;
+}
+.circle {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	box-shadow: 0 0 7px 4px #ff47f3;
+	background: #ff4ef3;
+	line-height: 50px;
+	text-align: center;
+	
+}
